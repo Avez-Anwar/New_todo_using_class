@@ -1,0 +1,16 @@
+body {
+  background-color: #4d774e;
+}
+
+.form {
+  background-color: skyblue;
+  height: 50vh;
+  text-align: center;
+  max-width: 500px;
+  margin: 50px auto;
+}
+
+.inputFields {
+  margin: 0px 200px;
+  padding: 10px;
+}
